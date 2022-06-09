@@ -1,6 +1,10 @@
 package com.qa.test.pages;
 
 public class LoginPage {
+	
+	public LoginPage() {
+		//my constructor  
+	}
 
 	public void myLogin() {
 		
